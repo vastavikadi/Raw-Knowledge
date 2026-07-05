@@ -1,0 +1,1 @@
+#### This repo contains my learning notes and code snippets for various programming languages and technologies. It serves as a personal reference and a resource for others who are interested in learning alongside me.
